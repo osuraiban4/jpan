@@ -5,3 +5,4 @@
 - [Nouns](nouns/nouns.txt)
 - [Verbs](verbs/verbs.txt)
 - [Expressions](expressions/expressions.txt)
+- [General](general/general.txt)
