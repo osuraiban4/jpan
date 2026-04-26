@@ -1,1 +1,7 @@
-
+mado - window
+denki - light
+chikatetsu - subway
+densha - train
+jitensha - bycicle
+kuruma - car
+isha - doctor
